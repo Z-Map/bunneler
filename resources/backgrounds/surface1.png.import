@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/surface1.png-62e08fe2eda19ad33ab78b7a56cb4807.image"
+
+[deps]
+
+source_file="res://resources/backgrounds/surface1.png"
+dest_files=[ "res://.import/surface1.png-62e08fe2eda19ad33ab78b7a56cb4807.image" ]
+
+[params]
+

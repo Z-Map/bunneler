@@ -35,6 +35,7 @@ func _physics_process(delta: float):
 		if result:
 			position = result.position
 		else:
+			print_debug("GROS PONEY")
 			position = ray_target
 			
 
